@@ -28,7 +28,7 @@ We trained the CNN Model on this dataset.
 ```
 
 ## Challenges
-========================
+
 ```
 The results were not so promising and we required 
 controlled conditions for testing 
