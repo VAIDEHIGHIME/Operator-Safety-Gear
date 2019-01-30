@@ -22,7 +22,8 @@ Dataset
 =======================
 ```
 We created our own dataset.
-We Captured videos of a person wearing and not wearing the safety gears and thus obtained the positive and negative frames.
+We Captured videos of a person wearing and not wearing the safety gears and 
+thus obtained the positive and negative frames.
 We trained the CNN Model on this dataset.
 ```
 
